@@ -1,0 +1,113 @@
+.content-1 {
+  margin-right: 2%;
+  height: 30%;
+  width: 50%;
+} 
+
+.site-title h1{
+  font-family: Jazz LET, fantasy;
+  color: #543b13;
+  margin: 0;
+  font-size: 2rem;
+}
+
+.site-subtitle {
+  font-size: .75rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.site-title{
+  text-align: center;
+}
+
+.hero-body {
+  background-image: url(https://www.slashgear.com/wp-content/uploads/2020/04/DC_Comics_main_uns.jpg);
+}
+
+.leftcontact {
+  margin-top:.9%;
+}
+
+.contact-explained {
+  white-space: pre-wrap;
+  font-size: large;
+}
+
+.explain-box{
+ width:25%;
+ margin-right: 50%;
+ 
+ margin: auto;
+}
+
+.login-badge{
+  padding-right: 3%;
+}
+
+.pageSelect{
+  padding-top: 10%;
+
+}
+
+.rate-title{
+  padding-right: 3%;
+}
+
+.product-details{
+  font-size: .75rem;
+  padding-left: 5%;
+}
+
+.product-price{
+  padding-bottom:-50%;
+  margin-bottom: -100%;
+  font-size: .75rem;
+}
+
+.item-name{
+  float: left;
+}
+
+.item-quantity{
+  float: right;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline{
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+.fix-submit{
+  margin-left:50%;
+}
+
+.center{
+  text-align: center;
+  font-size: medium;
+}
+
+.sign-success{
+  padding-top: 5%;
+}
+
+.con{
+  margin-top: -5%;
+}
+
+.signup-content{
+  padding-top:10%;
+}
+
+.product-button{
+  width: 25%;
+  font-size: 12px;
+}
+
+.closer{
+  text-align: center;
+}

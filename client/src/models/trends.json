@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Discover Kang's first comic book debut!",
+        "pic": "/kang-comic.jpg",
+        "writing": "In this issue, Kang makes his first appearence, and The Avengers must stop at nothing to halt his evil conquest!"
+    },
+    {
+        "id": 2,
+        "title": "Find out who was the Justice League's first threat!",
+        "pic": "/jc-league.jpg",
+        "writing": "Debuting in the new Suicide Squad, learn what exactly is this giant starfish creature."
+    }
+]
