@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import 'bulma/css/bulma.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import { useInit } from './components/app/hooks/useInit';
 import { Nav } from './components/app/Nav';
 import { Home } from './views/Home';
